@@ -1,0 +1,23 @@
+{
+  "name": "solana-client",
+  "version": "1.0.0",
+  "description": "Solana JS client to interact with the solana blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelogu/solana-client.git"
+  },
+  "keywords": [
+    "solana",
+    "blockchain"
+  ],
+  "author": "Samuel Ogu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelogu/solana-client/issues"
+  },
+  "homepage": "https://github.com/samuelogu/solana-client#readme"
+}
